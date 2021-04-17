@@ -29,3 +29,13 @@ footer {
     font-style: italic;
     margin-top: 110px;
 }
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: whitesmoke;
+}
