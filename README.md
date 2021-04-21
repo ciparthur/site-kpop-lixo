@@ -1,4 +1,4 @@
-# Site Kpop é um lixo lixo
+# Site Kpop é um lixo
 
  Padre falando verdades sobre o Kpop
 
