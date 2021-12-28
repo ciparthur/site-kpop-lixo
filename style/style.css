@@ -26,20 +26,3 @@ main {
 section video {
     max-width: 100%;
 }
-
-footer {
-    text-align: center;
-    font-size: .9em;
-    font-style: italic;
-    margin-top: 110px;
-}
-
-footer a {
-    text-decoration: none;
-    color: white;
-}
-
-footer a:hover {
-    text-decoration: underline;
-    color: whitesmoke;
-}
