@@ -8,7 +8,7 @@ Um Bispo falando verdades sobre o K-pop
 
  ---
 
- Kpop:
+ Kpop ==
 
  ![Lixo](imagens/favicon.ico)
  
